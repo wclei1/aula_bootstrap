@@ -1,0 +1,30 @@
+body{
+    font: 20px Arial, sans-serif;
+}
+.navbar{
+    background-color: rgb(0, 156, 156);
+    padding: 0px;
+}
+.quem-somos{
+    background-color: rgb(162, 255, 223);
+    color:rgb(0, 156, 156);
+}
+.margin{
+    padding-top: 30px;
+    padding-bottom: 50px;
+}
+.parceiros{
+    background-color: rgb(0, 156, 155);
+}
+.serviços{
+    background-color: aquamarine;
+}
+.conteiner{
+    text-align: justify;
+}
+.rodapé{
+    padding-top: 50px;
+    background-color: black;
+    color: rgba(255, 255, 255, 0.795);
+    font-family: 'Trebuchet MS';
+}
